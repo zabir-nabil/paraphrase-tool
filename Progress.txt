@@ -1,0 +1,7 @@
+Hi, I have started training as I said, it may take 3-4 days more to get an initial model, in the meantime I will experiment with multiple models and libs, to find multiple working solutions, and then we can choose the best one finally.
+
+Also: deployed a test page so that once I deploy a model, you can test it.
+
+Live URL: http://159.223.66.235:8000/form
+
+Source code updated at: https://github.com/zabir-nabil/paraphrase-tool
